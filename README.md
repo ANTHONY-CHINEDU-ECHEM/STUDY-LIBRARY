@@ -2,6 +2,8 @@
 
 A comprehensive collection of professionally curated educational resources focused on Artificial Intelligence and Machine Learning. This repository serves as a centralized knowledge base for professionals, researchers, and practitioners seeking to deepen their understanding of modern AI and ML technologies, systems architecture, and advanced applications.
 
+<img width="1080" height="1350" alt="RAG ARCHITECTURES" src="https://github.com/user-attachments/assets/8f021b2b-f744-4132-8d60-e4190db5c4ba" />
+
 ## Repository Overview
 
 This library encompasses thirty one curated PDF documents covering essential topics in AI engineering, machine learning operations, data engineering, and emerging technologies. The materials are organized to support continuous learning across foundational concepts, practical implementations, and advanced methodologies. All resources are maintained under the MIT License, enabling broad access and educational distribution.

@@ -88,6 +88,11 @@ This advanced resource provides comprehensive guidance on Retrieval Augmented Ge
 
 ### PostgreSQL for Machine Learning
 
+<p align="center">
+<img width="800" height="939" alt="SQL JOINS" src="https://github.com/user-attachments/assets/354fe5ff-4a24-41cd-9c3c-6d97d8d0685b" />
+</p>
+
+
 This specialized guide covers PostgreSQL capabilities and extensions relevant to machine learning workflows, including native machine learning functions, vector operations, and integration with ML frameworks. The document explores PostgreSQL as a component in machine learning systems rather than just as a data store.
 
 ### PostgreSQL Transactions and Locking

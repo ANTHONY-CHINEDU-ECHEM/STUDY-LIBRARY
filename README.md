@@ -1,6 +1,10 @@
 # STUDY LIBRARY
 
-A comprehensive collection of professionally curated educational resources focused on Artificial Intelligence and Machine Learning. This repository serves as a centralized knowledge base for professionals, researchers, and practitioners seeking to deepen their understanding of modern AI and ML technologies, systems architecture, and advanced applications.
+A comprehensive collection of professionally curated educational resources focused on Artificial Intelligence and Machine Learning. 
+
+<img width="1280" height="1480" alt="image" src="https://github.com/user-attachments/assets/397c74f5-9308-4c90-b5d0-98f008dff29f" />
+
+This repository serves as a centralized knowledge base for professionals, researchers, and practitioners seeking to deepen their understanding of modern AI and ML technologies, systems architecture, and advanced applications.
 
 <img width="1080" height="1350" alt="RAG ARCHITECTURES" src="https://github.com/user-attachments/assets/8f021b2b-f744-4132-8d60-e4190db5c4ba" />
 

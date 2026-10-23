@@ -12,6 +12,10 @@ This repository serves as a centralized knowledge base for professionals, resear
 
 This library encompasses thirty one curated PDF documents covering essential topics in AI engineering, machine learning operations, data engineering, and emerging technologies. The materials are organized to support continuous learning across foundational concepts, practical implementations, and advanced methodologies. All resources are maintained under the MIT License, enabling broad access and educational distribution.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/fd9608d0-2373-492b-ba75-c810ae8e65f1" />
+
+<img width="800" height="1000" alt="RAG ARCH" src="https://github.com/user-attachments/assets/60f24495-9a4a-4c86-9391-b515152f10d9" />
+
 ## Document Catalog
 
 ### Agentic AI Interview Preparation

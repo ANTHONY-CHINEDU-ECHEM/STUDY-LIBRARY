@@ -8,6 +8,11 @@ This repository serves as a centralized knowledge base for professionals, resear
 
 <img width="1080" height="1350" alt="RAG ARCHITECTURES" src="https://github.com/user-attachments/assets/8f021b2b-f744-4132-8d60-e4190db5c4ba" />
 
+
+
+<img width="1600" height="900" alt="WhatsApp Image 2026-10-30 at 21 23 48" src="https://github.com/user-attachments/assets/f89ad156-5633-4356-abc2-b261fd4d545b" />
+
+
 ## Repository Overview
 
 This library encompasses thirty one curated PDF documents covering essential topics in AI engineering, machine learning operations, data engineering, and emerging technologies. 
